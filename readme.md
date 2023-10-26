@@ -1,7 +1,7 @@
 # Avaliação de Desempenho de Algoritmos de Ordenação  
 
 **Disciplina**: Lógica de Programação  
-**Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas    
+**Curso**: Análise e Desenvolvimento de Sistemas    
 **Atividade**: Avaliação de Desempenho de Algoritmos de Ordenação com Portugol Studio  
 
 ## Visão Geral
